@@ -1,7 +1,7 @@
 ### Hi there! I'm Richard 👋
 
-- 👨‍💻 I'm a software engineer with several years of experience with both Ruby and JavaScript - I've also solved problems using Go
-- 📍 I'm based in the London area 🇬🇧
+- 👨‍💻 I'm a software engineer with several years of experience with both Ruby and JavaScript - I've also solved problems using Go!
+- 📍 I'm based in the London area 🇬🇧, originally from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 - 📈 I'm one of the co-creators of Horus, an open-source observability solution for microservices. Users can generate, store, and visualize telemetry data to see the real-time health of their application 
 
 <!--
